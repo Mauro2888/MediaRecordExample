@@ -10,7 +10,7 @@
 
         <Button
             android:id="@+id/btnRec"
-            android:background="@color/colorPrimary"
+            android:background="@color/colorRec"
             android:hint="REC"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
